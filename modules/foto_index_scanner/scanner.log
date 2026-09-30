@@ -1,0 +1,848 @@
+2026-07-09 14:25:32,149 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\Foto architef\modules\foto_index_scanner\kc_foto_index.db
+2026-07-09 14:25:32,179 - INFO - Starting scan of directory: C:\Users\stijn\Dropbox
+2026-07-09 14:25:32,473 - INFO - Progress: Checked 1000 directories. Found 505 directories with photos.
+2026-07-09 14:25:32,654 - INFO - Progress: Checked 2000 directories. Found 1214 directories with photos.
+2026-07-09 14:25:32,834 - INFO - Progress: Checked 3000 directories. Found 2064 directories with photos.
+2026-07-09 14:25:32,981 - INFO - Progress: Checked 4000 directories. Found 2682 directories with photos.
+2026-07-09 14:25:33,112 - INFO - Scan completed successfully.
+2026-07-09 14:25:33,113 - INFO - --- Summary Report ---
+2026-07-09 14:25:33,113 - INFO - Target Scan Path: C:\Users\stijn\Dropbox
+2026-07-09 14:25:33,113 - INFO - Total Folders Checked: 4823
+2026-07-09 14:25:33,113 - INFO - Folders with Photos: 2860
+2026-07-09 14:25:33,113 - INFO - Total Photos Counted: 174964
+2026-07-09 14:25:33,113 - INFO - Errors/Permission Denied: 0
+2026-07-09 14:25:33,113 - INFO - Execution Time: 0.93 seconds
+2026-07-09 14:25:33,113 - INFO - ----------------------
+2026-07-09 14:38:55,245 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\Foto architef\modules\foto_index_scanner\kc_foto_index.db
+2026-07-09 14:38:55,247 - INFO - Migrating schema: Adding 'foto_datum' column to table projecten.
+2026-07-09 14:38:55,463 - INFO - Migrating schema: Adding 'is_selectie' column to table projecten.
+2026-07-09 14:38:55,473 - INFO - Starting scan of directory: P:\
+2026-07-09 14:40:59,780 - INFO - Progress: Checked 1000 directories. Found 261 directories with photos.
+2026-07-09 14:44:55,868 - INFO - Progress: Checked 2000 directories. Found 623 directories with photos.
+2026-07-09 14:47:47,759 - INFO - Progress: Checked 3000 directories. Found 900 directories with photos.
+2026-07-09 14:49:05,950 - INFO - Progress: Checked 4000 directories. Found 1109 directories with photos.
+2026-07-09 14:51:01,545 - INFO - Progress: Checked 5000 directories. Found 1470 directories with photos.
+2026-07-09 14:51:21,936 - INFO - Scan completed successfully.
+2026-07-09 14:51:21,936 - INFO - --- Summary Report ---
+2026-07-09 14:51:21,936 - INFO - Target Scan Path: P:\
+2026-07-09 14:51:21,937 - INFO - Total Folders Checked: 5172
+2026-07-09 14:51:21,937 - INFO - Folders with Photos: 1520
+2026-07-09 14:51:21,937 - INFO - Total Photos Counted: 36900
+2026-07-09 14:51:21,937 - INFO - Errors/Permission Denied: 0
+2026-07-09 14:51:21,937 - INFO - Execution Time: 746.46 seconds
+2026-07-09 14:51:21,937 - INFO - ----------------------
+2026-07-12 13:40:29,258 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\Foto architef\modules\foto_index_scanner\kc_foto_index.db
+2026-07-12 13:40:29,260 - INFO - Migrating schema: Adding 'locatie_context' column to table projecten.
+2026-07-12 13:40:29,270 - INFO - Starting scan of directory: P:\
+2026-07-12 13:46:50,595 - INFO - Progress: Checked 1000 directories. Found 261 directories with photos.
+2026-07-12 13:59:48,681 - INFO - Progress: Checked 2000 directories. Found 623 directories with photos.
+2026-07-12 14:09:01,835 - INFO - Progress: Checked 3000 directories. Found 900 directories with photos.
+2026-07-12 14:13:35,377 - INFO - Progress: Checked 4000 directories. Found 1109 directories with photos.
+2026-07-12 14:20:05,549 - INFO - Progress: Checked 5000 directories. Found 1470 directories with photos.
+2026-07-12 14:28:14,309 - INFO - Progress: Checked 6000 directories. Found 1881 directories with photos.
+2026-07-12 14:36:33,538 - INFO - Progress: Checked 7000 directories. Found 2332 directories with photos.
+2026-07-12 14:45:04,765 - INFO - Progress: Checked 8000 directories. Found 2675 directories with photos.
+2026-07-12 14:46:50,766 - INFO - Progress: Checked 9000 directories. Found 2721 directories with photos.
+2026-07-12 14:50:41,174 - INFO - Progress: Checked 10000 directories. Found 2780 directories with photos.
+2026-07-12 15:00:19,344 - INFO - Progress: Checked 11000 directories. Found 3135 directories with photos.
+2026-07-12 15:04:28,537 - INFO - Progress: Checked 12000 directories. Found 3222 directories with photos.
+2026-07-12 15:19:17,266 - INFO - Progress: Checked 13000 directories. Found 3602 directories with photos.
+2026-07-12 15:23:05,603 - INFO - Progress: Checked 14000 directories. Found 3796 directories with photos.
+2026-07-12 15:29:05,534 - INFO - Progress: Checked 15000 directories. Found 3972 directories with photos.
+2026-07-12 15:33:02,442 - INFO - Progress: Checked 16000 directories. Found 4106 directories with photos.
+2026-07-12 15:39:09,395 - INFO - Progress: Checked 17000 directories. Found 4282 directories with photos.
+2026-07-12 15:41:36,912 - INFO - Progress: Checked 18000 directories. Found 4365 directories with photos.
+2026-07-12 15:45:02,928 - INFO - Progress: Checked 19000 directories. Found 4481 directories with photos.
+2026-07-12 15:46:14,959 - INFO - Progress: Checked 20000 directories. Found 4527 directories with photos.
+2026-07-12 15:47:50,493 - INFO - Progress: Checked 21000 directories. Found 4541 directories with photos.
+2026-07-12 15:49:30,130 - INFO - Progress: Checked 22000 directories. Found 4611 directories with photos.
+2026-07-12 15:51:18,944 - INFO - Progress: Checked 23000 directories. Found 4675 directories with photos.
+2026-07-12 15:54:02,869 - INFO - Progress: Checked 24000 directories. Found 4744 directories with photos.
+2026-07-12 15:55:44,752 - INFO - Progress: Checked 25000 directories. Found 4792 directories with photos.
+2026-07-12 15:57:43,569 - INFO - Progress: Checked 26000 directories. Found 4818 directories with photos.
+2026-07-12 15:59:56,298 - INFO - Progress: Checked 27000 directories. Found 4891 directories with photos.
+2026-07-12 16:01:50,602 - INFO - Progress: Checked 28000 directories. Found 4951 directories with photos.
+2026-07-12 16:05:40,998 - INFO - Progress: Checked 29000 directories. Found 5060 directories with photos.
+2026-07-12 16:14:38,207 - INFO - Progress: Checked 30000 directories. Found 5306 directories with photos.
+2026-07-12 16:23:13,783 - INFO - Progress: Checked 31000 directories. Found 5553 directories with photos.
+2026-07-12 16:28:58,679 - INFO - Progress: Checked 32000 directories. Found 5778 directories with photos.
+2026-07-12 16:32:40,206 - INFO - Progress: Checked 33000 directories. Found 5900 directories with photos.
+2026-07-12 16:41:31,038 - INFO - Progress: Checked 34000 directories. Found 6141 directories with photos.
+2026-07-12 16:50:08,408 - INFO - Progress: Checked 35000 directories. Found 6492 directories with photos.
+2026-07-12 16:59:53,744 - INFO - Progress: Checked 36000 directories. Found 6766 directories with photos.
+2026-07-12 17:04:40,986 - INFO - Progress: Checked 37000 directories. Found 6929 directories with photos.
+2026-07-12 17:30:42,298 - INFO - Progress: Checked 38000 directories. Found 7231 directories with photos.
+2026-07-12 17:37:53,255 - INFO - Progress: Checked 39000 directories. Found 7439 directories with photos.
+2026-07-12 17:49:24,788 - INFO - Progress: Checked 40000 directories. Found 7776 directories with photos.
+2026-07-12 17:51:50,132 - INFO - Progress: Checked 41000 directories. Found 7846 directories with photos.
+2026-07-12 17:55:02,600 - INFO - Progress: Checked 42000 directories. Found 7932 directories with photos.
+2026-07-12 18:04:19,204 - INFO - Progress: Checked 43000 directories. Found 8209 directories with photos.
+2026-07-12 18:09:27,317 - INFO - Progress: Checked 44000 directories. Found 8377 directories with photos.
+2026-07-12 18:13:34,318 - INFO - Progress: Checked 45000 directories. Found 8535 directories with photos.
+2026-07-12 18:22:00,366 - INFO - Progress: Checked 46000 directories. Found 8821 directories with photos.
+2026-07-12 18:31:08,302 - INFO - Progress: Checked 47000 directories. Found 9142 directories with photos.
+2026-07-12 18:39:08,488 - INFO - Progress: Checked 48000 directories. Found 9400 directories with photos.
+2026-07-12 18:44:35,694 - INFO - Progress: Checked 49000 directories. Found 9572 directories with photos.
+2026-07-12 18:49:08,645 - INFO - Progress: Checked 50000 directories. Found 9767 directories with photos.
+2026-07-12 18:53:44,236 - INFO - Progress: Checked 51000 directories. Found 9948 directories with photos.
+2026-07-12 18:55:20,101 - INFO - Progress: Checked 52000 directories. Found 10040 directories with photos.
+2026-07-12 18:59:37,672 - INFO - Progress: Checked 53000 directories. Found 10168 directories with photos.
+2026-07-12 19:06:10,669 - INFO - Progress: Checked 54000 directories. Found 10401 directories with photos.
+2026-07-12 19:13:08,606 - INFO - Progress: Checked 55000 directories. Found 10643 directories with photos.
+2026-07-12 19:16:12,217 - INFO - Progress: Checked 56000 directories. Found 10756 directories with photos.
+2026-07-12 19:24:49,704 - INFO - Progress: Checked 57000 directories. Found 11059 directories with photos.
+2026-07-12 19:33:30,408 - INFO - Progress: Checked 58000 directories. Found 11368 directories with photos.
+2026-07-12 19:40:35,671 - INFO - Progress: Checked 59000 directories. Found 11681 directories with photos.
+2026-07-12 19:46:23,385 - INFO - Progress: Checked 60000 directories. Found 11820 directories with photos.
+2026-07-12 19:48:30,519 - INFO - Progress: Checked 61000 directories. Found 11868 directories with photos.
+2026-07-12 19:55:01,667 - INFO - Progress: Checked 62000 directories. Found 12031 directories with photos.
+2026-07-12 20:09:40,383 - INFO - Progress: Checked 63000 directories. Found 12324 directories with photos.
+2026-07-12 20:18:57,114 - INFO - Progress: Checked 64000 directories. Found 12624 directories with photos.
+2026-07-12 20:24:58,817 - INFO - Progress: Checked 65000 directories. Found 12769 directories with photos.
+2026-07-12 20:28:19,585 - INFO - Progress: Checked 66000 directories. Found 12865 directories with photos.
+2026-07-12 20:40:36,722 - INFO - Progress: Checked 67000 directories. Found 13244 directories with photos.
+2026-07-12 20:48:03,076 - INFO - Progress: Checked 68000 directories. Found 13494 directories with photos.
+2026-07-12 20:51:56,825 - INFO - Progress: Checked 69000 directories. Found 13608 directories with photos.
+2026-07-12 21:01:10,585 - INFO - Progress: Checked 70000 directories. Found 13912 directories with photos.
+2026-07-12 21:08:20,056 - INFO - Progress: Checked 71000 directories. Found 14162 directories with photos.
+2026-07-12 21:14:52,200 - INFO - Progress: Checked 72000 directories. Found 14364 directories with photos.
+2026-07-12 21:21:01,870 - INFO - Progress: Checked 73000 directories. Found 14578 directories with photos.
+2026-07-12 21:30:51,176 - INFO - Progress: Checked 74000 directories. Found 14974 directories with photos.
+2026-07-12 21:36:16,062 - INFO - Progress: Checked 75000 directories. Found 15063 directories with photos.
+2026-07-12 21:40:16,684 - INFO - Progress: Checked 76000 directories. Found 15208 directories with photos.
+2026-07-12 21:50:05,989 - INFO - Progress: Checked 77000 directories. Found 15509 directories with photos.
+2026-07-12 21:54:12,162 - INFO - Progress: Checked 78000 directories. Found 15626 directories with photos.
+2026-07-12 21:57:34,907 - INFO - Progress: Checked 79000 directories. Found 15781 directories with photos.
+2026-07-12 22:07:24,065 - INFO - Progress: Checked 80000 directories. Found 16065 directories with photos.
+2026-07-12 22:17:13,354 - INFO - Progress: Checked 81000 directories. Found 16187 directories with photos.
+2026-07-12 22:19:50,199 - INFO - Progress: Checked 82000 directories. Found 16264 directories with photos.
+2026-07-12 22:21:36,870 - INFO - Progress: Checked 83000 directories. Found 16329 directories with photos.
+2026-07-12 22:25:48,759 - INFO - Progress: Checked 84000 directories. Found 17045 directories with photos.
+2026-07-12 22:28:04,549 - INFO - Progress: Checked 85000 directories. Found 17163 directories with photos.
+2026-07-12 22:31:54,280 - INFO - Progress: Checked 86000 directories. Found 17339 directories with photos.
+2026-07-12 22:37:15,352 - INFO - Progress: Checked 87000 directories. Found 17558 directories with photos.
+2026-07-12 22:40:47,449 - INFO - Progress: Checked 88000 directories. Found 17762 directories with photos.
+2026-07-12 22:43:00,764 - INFO - Progress: Checked 89000 directories. Found 17872 directories with photos.
+2026-07-12 22:47:19,800 - INFO - Progress: Checked 90000 directories. Found 17956 directories with photos.
+2026-07-12 22:50:33,871 - INFO - Progress: Checked 91000 directories. Found 18060 directories with photos.
+2026-07-12 22:53:28,057 - INFO - Progress: Checked 92000 directories. Found 18246 directories with photos.
+2026-07-12 22:55:14,419 - INFO - Progress: Checked 93000 directories. Found 18328 directories with photos.
+2026-07-12 22:57:00,386 - INFO - Progress: Checked 94000 directories. Found 18357 directories with photos.
+2026-07-12 22:59:06,018 - INFO - Progress: Checked 95000 directories. Found 18453 directories with photos.
+2026-07-12 23:01:31,342 - INFO - Progress: Checked 96000 directories. Found 18552 directories with photos.
+2026-07-12 23:06:23,747 - INFO - Progress: Checked 97000 directories. Found 18727 directories with photos.
+2026-07-12 23:11:27,423 - INFO - Progress: Checked 98000 directories. Found 18868 directories with photos.
+2026-07-12 23:16:48,613 - INFO - Progress: Checked 99000 directories. Found 18990 directories with photos.
+2026-07-12 23:20:03,042 - INFO - Progress: Checked 100000 directories. Found 19083 directories with photos.
+2026-07-12 23:23:34,536 - INFO - Progress: Checked 101000 directories. Found 19286 directories with photos.
+2026-07-12 23:28:20,723 - INFO - Progress: Checked 102000 directories. Found 19479 directories with photos.
+2026-07-12 23:31:11,081 - INFO - Progress: Checked 103000 directories. Found 19596 directories with photos.
+2026-07-12 23:35:27,714 - INFO - Progress: Checked 104000 directories. Found 19779 directories with photos.
+2026-07-12 23:40:55,625 - INFO - Progress: Checked 105000 directories. Found 19997 directories with photos.
+2026-07-12 23:49:12,214 - INFO - Progress: Checked 106000 directories. Found 20201 directories with photos.
+2026-07-12 23:54:03,544 - INFO - Progress: Checked 107000 directories. Found 20348 directories with photos.
+2026-07-13 00:00:25,450 - INFO - Progress: Checked 108000 directories. Found 20631 directories with photos.
+2026-07-13 00:03:48,048 - INFO - Progress: Checked 109000 directories. Found 20758 directories with photos.
+2026-07-13 00:12:15,580 - INFO - Progress: Checked 110000 directories. Found 21049 directories with photos.
+2026-07-13 00:20:38,255 - INFO - Progress: Checked 111000 directories. Found 21309 directories with photos.
+2026-07-13 00:25:28,212 - INFO - Progress: Checked 112000 directories. Found 21440 directories with photos.
+2026-07-13 00:29:17,716 - INFO - Progress: Checked 113000 directories. Found 21545 directories with photos.
+2026-07-13 00:40:21,414 - INFO - Progress: Checked 114000 directories. Found 21875 directories with photos.
+2026-07-13 00:51:07,986 - INFO - Progress: Checked 115000 directories. Found 22237 directories with photos.
+2026-07-13 00:57:45,703 - INFO - Progress: Checked 116000 directories. Found 22456 directories with photos.
+2026-07-13 01:05:18,917 - INFO - Progress: Checked 117000 directories. Found 22790 directories with photos.
+2026-07-13 01:11:05,206 - INFO - Progress: Checked 118000 directories. Found 23017 directories with photos.
+2026-07-13 01:17:11,173 - INFO - Progress: Checked 119000 directories. Found 23410 directories with photos.
+2026-07-13 01:21:51,738 - INFO - Progress: Checked 120000 directories. Found 23538 directories with photos.
+2026-07-13 01:24:47,381 - INFO - Progress: Checked 121000 directories. Found 23627 directories with photos.
+2026-07-13 01:29:55,352 - INFO - Progress: Checked 122000 directories. Found 23798 directories with photos.
+2026-07-13 01:41:14,100 - INFO - Progress: Checked 123000 directories. Found 24144 directories with photos.
+2026-07-13 01:46:50,516 - INFO - Progress: Checked 124000 directories. Found 24409 directories with photos.
+2026-07-13 01:51:16,288 - INFO - Progress: Checked 125000 directories. Found 24573 directories with photos.
+2026-07-13 01:57:11,625 - INFO - Progress: Checked 126000 directories. Found 24760 directories with photos.
+2026-07-13 02:22:23,454 - INFO - Progress: Checked 127000 directories. Found 25000 directories with photos.
+2026-07-13 02:27:10,493 - INFO - Progress: Checked 128000 directories. Found 25139 directories with photos.
+2026-07-13 02:38:32,335 - INFO - Progress: Checked 129000 directories. Found 25409 directories with photos.
+2026-07-13 02:43:48,761 - INFO - Progress: Checked 130000 directories. Found 25590 directories with photos.
+2026-07-13 02:48:37,141 - INFO - Progress: Checked 131000 directories. Found 25767 directories with photos.
+2026-07-13 02:58:37,397 - INFO - Progress: Checked 132000 directories. Found 26112 directories with photos.
+2026-07-13 03:03:58,037 - INFO - Progress: Checked 133000 directories. Found 26314 directories with photos.
+2026-07-13 03:09:01,607 - INFO - Progress: Checked 134000 directories. Found 26659 directories with photos.
+2026-07-13 03:13:22,718 - INFO - Progress: Checked 135000 directories. Found 26854 directories with photos.
+2026-07-13 03:18:15,450 - INFO - Progress: Checked 136000 directories. Found 27003 directories with photos.
+2026-07-13 03:21:37,595 - INFO - Progress: Checked 137000 directories. Found 27123 directories with photos.
+2026-07-13 03:26:08,972 - INFO - Progress: Checked 138000 directories. Found 27324 directories with photos.
+2026-07-13 03:38:16,207 - INFO - Progress: Checked 139000 directories. Found 27645 directories with photos.
+2026-07-13 03:53:49,855 - INFO - Progress: Checked 140000 directories. Found 28014 directories with photos.
+2026-07-13 04:00:39,422 - INFO - Progress: Checked 141000 directories. Found 28174 directories with photos.
+2026-07-13 04:10:09,264 - INFO - Progress: Checked 142000 directories. Found 28495 directories with photos.
+2026-07-13 04:21:31,016 - INFO - Progress: Checked 143000 directories. Found 28914 directories with photos.
+2026-07-13 04:29:17,247 - INFO - Progress: Checked 144000 directories. Found 29213 directories with photos.
+2026-07-13 04:34:05,618 - INFO - Progress: Checked 145000 directories. Found 29373 directories with photos.
+2026-07-13 04:39:06,924 - INFO - Progress: Checked 146000 directories. Found 29796 directories with photos.
+2026-07-13 04:43:44,524 - INFO - Progress: Checked 147000 directories. Found 29970 directories with photos.
+2026-07-13 04:47:27,502 - INFO - Progress: Checked 148000 directories. Found 30146 directories with photos.
+2026-07-13 05:01:30,944 - INFO - Progress: Checked 149000 directories. Found 30461 directories with photos.
+2026-07-13 05:05:07,975 - INFO - Progress: Checked 150000 directories. Found 30577 directories with photos.
+2026-07-13 05:12:54,717 - INFO - Progress: Checked 151000 directories. Found 30841 directories with photos.
+2026-07-13 05:35:51,086 - INFO - Progress: Checked 152000 directories. Found 31173 directories with photos.
+2026-07-13 05:44:18,888 - INFO - Progress: Checked 153000 directories. Found 31471 directories with photos.
+2026-07-13 05:51:27,706 - INFO - Progress: Checked 154000 directories. Found 31667 directories with photos.
+2026-07-13 05:58:30,997 - INFO - Progress: Checked 155000 directories. Found 31882 directories with photos.
+2026-07-13 06:10:52,223 - INFO - Progress: Checked 156000 directories. Found 32204 directories with photos.
+2026-07-13 06:13:25,886 - INFO - Progress: Checked 157000 directories. Found 32264 directories with photos.
+2026-07-13 06:23:00,332 - INFO - Progress: Checked 158000 directories. Found 32543 directories with photos.
+2026-07-13 06:31:04,939 - INFO - Progress: Checked 159000 directories. Found 32742 directories with photos.
+2026-07-13 06:37:34,821 - INFO - Progress: Checked 160000 directories. Found 32852 directories with photos.
+2026-07-13 06:41:33,664 - INFO - Progress: Checked 161000 directories. Found 32993 directories with photos.
+2026-07-13 06:48:43,749 - INFO - Progress: Checked 162000 directories. Found 33205 directories with photos.
+2026-07-13 07:01:06,849 - INFO - Progress: Checked 163000 directories. Found 33550 directories with photos.
+2026-07-13 07:06:05,794 - INFO - Progress: Checked 164000 directories. Found 33744 directories with photos.
+2026-07-13 07:11:01,300 - INFO - Progress: Checked 165000 directories. Found 33869 directories with photos.
+2026-07-13 07:15:27,422 - INFO - Progress: Checked 166000 directories. Found 34133 directories with photos.
+2026-07-13 07:30:38,238 - INFO - Progress: Checked 167000 directories. Found 34517 directories with photos.
+2026-07-13 07:41:20,968 - INFO - Progress: Checked 168000 directories. Found 34883 directories with photos.
+2026-07-13 07:47:05,684 - INFO - Progress: Checked 169000 directories. Found 35077 directories with photos.
+2026-07-13 07:51:43,088 - INFO - Progress: Checked 170000 directories. Found 35270 directories with photos.
+2026-07-13 07:59:15,573 - INFO - Progress: Checked 171000 directories. Found 35584 directories with photos.
+2026-07-13 08:11:30,997 - INFO - Progress: Checked 172000 directories. Found 36017 directories with photos.
+2026-07-13 08:18:18,856 - INFO - Progress: Checked 173000 directories. Found 36313 directories with photos.
+2026-07-13 08:21:30,995 - INFO - Scan completed successfully.
+2026-07-13 08:21:30,995 - INFO - --- Summary Report ---
+2026-07-13 08:21:30,995 - INFO - Target Scan Path: P:\
+2026-07-13 08:21:30,996 - INFO - Total Folders Checked: 173473
+2026-07-13 08:21:30,996 - INFO - Folders with Photos: 36322
+2026-07-13 08:21:30,996 - INFO - Total Photos Counted: 571049
+2026-07-13 08:21:30,996 - INFO - Errors/Permission Denied: 0
+2026-07-13 08:21:30,996 - INFO - Execution Time: 67261.72 seconds
+2026-07-13 08:21:30,996 - INFO - ----------------------
+2026-07-13 09:39:49,614 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\Foto architef\modules\foto_index_scanner\kc_foto_index.db
+2026-07-13 09:39:49,615 - INFO - Starting scan of directory: K:\
+2026-07-13 09:40:25,860 - INFO - Progress: Checked 1000 directories. Found 101 directories with photos.
+2026-07-13 09:41:28,487 - INFO - Progress: Checked 2000 directories. Found 220 directories with photos.
+2026-07-13 09:43:41,305 - INFO - Progress: Checked 3000 directories. Found 607 directories with photos.
+2026-07-13 09:44:20,510 - INFO - Progress: Checked 4000 directories. Found 724 directories with photos.
+2026-07-13 09:44:51,917 - INFO - Progress: Checked 5000 directories. Found 784 directories with photos.
+2026-07-13 09:45:07,253 - INFO - Progress: Checked 6000 directories. Found 822 directories with photos.
+2026-07-13 09:46:35,566 - INFO - Progress: Checked 7000 directories. Found 971 directories with photos.
+2026-07-13 09:46:55,140 - INFO - Progress: Checked 8000 directories. Found 1007 directories with photos.
+2026-07-13 09:47:06,882 - INFO - Progress: Checked 9000 directories. Found 1071 directories with photos.
+2026-07-13 09:47:43,174 - INFO - Scan completed successfully.
+2026-07-13 09:47:43,174 - INFO - --- Summary Report ---
+2026-07-13 09:47:43,174 - INFO - Target Scan Path: K:\
+2026-07-13 09:47:43,175 - INFO - Total Folders Checked: 9638
+2026-07-13 09:47:43,175 - INFO - Folders with Photos: 1305
+2026-07-13 09:47:43,175 - INFO - Total Photos Counted: 23149
+2026-07-13 09:47:43,175 - INFO - Errors/Permission Denied: 0
+2026-07-13 09:47:43,175 - INFO - Execution Time: 473.56 seconds
+2026-07-13 09:47:43,175 - INFO - ----------------------
+2026-07-13 16:30:24,019 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\Foto architef\modules\foto_index_scanner\kc_foto_index.db
+2026-07-13 16:30:24,024 - INFO - Starting scan of directory: P:\Beeldenbank
+2026-07-13 16:30:24,140 - INFO - Loading Sumatra Excel lookup data: c:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\Foto architef\1. Data KC projecten Sumatra tm juni 2026.xlsx...
+2026-07-13 16:30:27,946 - INFO - Successfully loaded 27766 project metadata definitions.
+2026-07-13 16:44:18,051 - INFO - Progress: Checked 1000 directories. Found 551 directories with photos.
+2026-07-13 16:50:49,941 - INFO - Progress: Checked 2000 directories. Found 853 directories with photos.
+2026-07-13 16:59:05,831 - INFO - Progress: Checked 3000 directories. Found 1543 directories with photos.
+2026-07-13 17:05:40,756 - INFO - Progress: Checked 4000 directories. Found 2119 directories with photos.
+2026-07-13 17:14:32,310 - INFO - Progress: Checked 5000 directories. Found 2672 directories with photos.
+2026-07-13 17:23:51,290 - INFO - Progress: Checked 6000 directories. Found 3096 directories with photos.
+2026-07-13 17:28:13,810 - INFO - Progress: Checked 7000 directories. Found 3618 directories with photos.
+2026-07-13 17:33:31,195 - INFO - Progress: Checked 8000 directories. Found 4016 directories with photos.
+2026-07-13 17:38:37,395 - INFO - Progress: Checked 9000 directories. Found 4431 directories with photos.
+2026-07-13 17:45:49,398 - INFO - Progress: Checked 10000 directories. Found 5256 directories with photos.
+2026-07-13 17:55:29,421 - INFO - Progress: Checked 11000 directories. Found 5831 directories with photos.
+2026-07-13 17:59:24,410 - INFO - Progress: Checked 12000 directories. Found 6054 directories with photos.
+2026-07-13 18:04:06,022 - INFO - Progress: Checked 13000 directories. Found 6325 directories with photos.
+2026-07-13 18:05:03,776 - INFO - Scan completed successfully.
+2026-07-13 18:05:03,776 - INFO - --- Summary Report ---
+2026-07-13 18:05:03,776 - INFO - Target Scan Path: P:\Beeldenbank
+2026-07-13 18:05:03,777 - INFO - Total Folders Checked: 13169
+2026-07-13 18:05:03,777 - INFO - Folders with Photos: 6400
+2026-07-13 18:05:03,777 - INFO - Total Photos Counted: 174902
+2026-07-13 18:05:03,778 - INFO - Errors/Permission Denied: 0
+2026-07-13 18:05:03,778 - INFO - Execution Time: 5679.75 seconds
+2026-07-13 18:05:03,778 - INFO - ----------------------
+2026-07-18 12:49:41,244 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\FOTOARCHIEF_KC_DOORZOEKER\modules\foto_index_scanner\kc_foto_index.db
+2026-07-18 12:49:41,248 - INFO - Starting scan of directory: J:\\
+2026-07-18 12:49:41,280 - INFO - Loading Excel File 2 (Workfields)...
+2026-07-18 12:49:43,992 - INFO - Loading Excel File 1 (Sumatra metadata)...
+2026-07-18 12:49:47,148 - INFO - Successfully loaded 27766 project metadata definitions.
+2026-07-18 12:58:57,855 - INFO - Progress: Checked 1000 directories. Found 326 directories with photos.
+2026-07-18 13:03:19,530 - INFO - Progress: Checked 2000 directories. Found 389 directories with photos.
+2026-07-18 13:10:36,396 - INFO - Progress: Checked 3000 directories. Found 611 directories with photos.
+2026-07-18 13:14:51,773 - INFO - Progress: Checked 4000 directories. Found 791 directories with photos.
+2026-07-18 13:19:01,128 - INFO - Progress: Checked 5000 directories. Found 924 directories with photos.
+2026-07-18 13:20:42,016 - INFO - Progress: Checked 6000 directories. Found 958 directories with photos.
+2026-07-18 13:22:52,200 - INFO - Progress: Checked 7000 directories. Found 1023 directories with photos.
+2026-07-18 13:24:26,713 - INFO - Progress: Checked 8000 directories. Found 1059 directories with photos.
+2026-07-18 13:26:09,056 - INFO - Progress: Checked 9000 directories. Found 1077 directories with photos.
+2026-07-18 13:27:46,301 - INFO - Progress: Checked 10000 directories. Found 1113 directories with photos.
+2026-07-18 13:28:59,909 - INFO - Progress: Checked 11000 directories. Found 1130 directories with photos.
+2026-07-18 13:30:01,795 - INFO - Progress: Checked 12000 directories. Found 1146 directories with photos.
+2026-07-18 13:39:12,162 - INFO - Progress: Checked 13000 directories. Found 1385 directories with photos.
+2026-07-18 13:43:22,992 - INFO - Progress: Checked 14000 directories. Found 1530 directories with photos.
+2026-07-18 13:44:44,055 - INFO - Progress: Checked 15000 directories. Found 1550 directories with photos.
+2026-07-18 13:47:43,229 - INFO - Progress: Checked 16000 directories. Found 1644 directories with photos.
+2026-07-18 13:49:42,636 - INFO - Progress: Checked 17000 directories. Found 1699 directories with photos.
+2026-07-18 13:52:36,293 - INFO - Progress: Checked 18000 directories. Found 1770 directories with photos.
+2026-07-18 13:53:57,280 - INFO - Progress: Checked 19000 directories. Found 1826 directories with photos.
+2026-07-18 13:55:16,216 - INFO - Progress: Checked 20000 directories. Found 1874 directories with photos.
+2026-07-18 13:57:11,739 - INFO - Progress: Checked 21000 directories. Found 1921 directories with photos.
+2026-07-18 13:58:21,413 - INFO - Progress: Checked 22000 directories. Found 1939 directories with photos.
+2026-07-18 14:00:01,601 - INFO - Progress: Checked 23000 directories. Found 1989 directories with photos.
+2026-07-18 14:02:20,201 - INFO - Progress: Checked 24000 directories. Found 2047 directories with photos.
+2026-07-18 14:03:41,814 - INFO - Progress: Checked 25000 directories. Found 2090 directories with photos.
+2026-07-18 14:05:26,903 - INFO - Progress: Checked 26000 directories. Found 2132 directories with photos.
+2026-07-18 14:06:56,916 - INFO - Progress: Checked 27000 directories. Found 2157 directories with photos.
+2026-07-18 14:08:46,632 - INFO - Progress: Checked 28000 directories. Found 2217 directories with photos.
+2026-07-18 14:10:52,992 - INFO - Progress: Checked 29000 directories. Found 2267 directories with photos.
+2026-07-18 14:12:11,465 - INFO - Progress: Checked 30000 directories. Found 2294 directories with photos.
+2026-07-18 14:16:01,803 - INFO - Progress: Checked 31000 directories. Found 2418 directories with photos.
+2026-07-18 14:19:26,825 - INFO - Progress: Checked 32000 directories. Found 2504 directories with photos.
+2026-07-18 14:22:51,062 - INFO - Progress: Checked 33000 directories. Found 2610 directories with photos.
+2026-07-18 14:25:31,877 - INFO - Progress: Checked 34000 directories. Found 2757 directories with photos.
+2026-07-18 14:32:50,053 - INFO - Progress: Checked 35000 directories. Found 2952 directories with photos.
+2026-07-18 14:42:50,459 - INFO - Progress: Checked 36000 directories. Found 3180 directories with photos.
+2026-07-18 14:47:31,986 - INFO - Progress: Checked 37000 directories. Found 3369 directories with photos.
+2026-07-18 14:50:37,539 - INFO - Progress: Checked 38000 directories. Found 3479 directories with photos.
+2026-07-18 14:52:58,579 - INFO - Progress: Checked 39000 directories. Found 3550 directories with photos.
+2026-07-18 14:56:22,127 - INFO - Progress: Checked 40000 directories. Found 3639 directories with photos.
+2026-07-18 15:03:14,672 - INFO - Progress: Checked 41000 directories. Found 3866 directories with photos.
+2026-07-18 15:05:03,838 - INFO - Progress: Checked 42000 directories. Found 3924 directories with photos.
+2026-07-18 15:08:52,678 - INFO - Progress: Checked 43000 directories. Found 4059 directories with photos.
+2026-07-18 15:10:26,316 - INFO - Progress: Checked 44000 directories. Found 4117 directories with photos.
+2026-07-18 15:27:01,450 - INFO - Progress: Checked 45000 directories. Found 4464 directories with photos.
+2026-07-18 15:30:47,660 - INFO - Progress: Checked 46000 directories. Found 4610 directories with photos.
+2026-07-18 15:36:32,503 - INFO - Progress: Checked 47000 directories. Found 4709 directories with photos.
+2026-07-18 15:38:27,702 - INFO - Progress: Checked 48000 directories. Found 4765 directories with photos.
+2026-07-18 15:41:08,981 - INFO - Progress: Checked 49000 directories. Found 4863 directories with photos.
+2026-07-18 15:43:07,822 - INFO - Progress: Checked 50000 directories. Found 4931 directories with photos.
+2026-07-18 15:47:18,548 - INFO - Progress: Checked 51000 directories. Found 5056 directories with photos.
+2026-07-18 15:53:12,433 - INFO - Progress: Checked 52000 directories. Found 5213 directories with photos.
+2026-07-18 16:01:19,479 - INFO - Progress: Checked 53000 directories. Found 5450 directories with photos.
+2026-07-18 16:04:59,790 - INFO - Progress: Checked 54000 directories. Found 5608 directories with photos.
+2026-07-18 16:10:49,002 - INFO - Progress: Checked 55000 directories. Found 5806 directories with photos.
+2026-07-18 16:19:59,776 - INFO - Progress: Checked 56000 directories. Found 6038 directories with photos.
+2026-07-18 16:22:26,732 - INFO - Progress: Checked 57000 directories. Found 6162 directories with photos.
+2026-07-18 16:31:24,596 - INFO - Progress: Checked 58000 directories. Found 6432 directories with photos.
+2026-07-18 16:33:18,502 - INFO - Progress: Checked 59000 directories. Found 6492 directories with photos.
+2026-07-18 16:34:31,806 - INFO - Progress: Checked 60000 directories. Found 6520 directories with photos.
+2026-07-18 16:40:44,643 - INFO - Progress: Checked 61000 directories. Found 6671 directories with photos.
+2026-07-18 16:48:57,800 - INFO - Progress: Checked 62000 directories. Found 6906 directories with photos.
+2026-07-18 16:52:31,935 - INFO - Progress: Checked 63000 directories. Found 7037 directories with photos.
+2026-07-18 16:55:23,447 - INFO - Progress: Checked 64000 directories. Found 7134 directories with photos.
+2026-07-18 16:59:10,684 - INFO - Progress: Checked 65000 directories. Found 7285 directories with photos.
+2026-07-18 17:10:16,653 - INFO - Progress: Checked 66000 directories. Found 7588 directories with photos.
+2026-07-18 17:15:56,021 - INFO - Progress: Checked 67000 directories. Found 7658 directories with photos.
+2026-07-18 17:25:59,845 - INFO - Progress: Checked 68000 directories. Found 7936 directories with photos.
+2026-07-18 17:40:51,068 - INFO - Progress: Checked 69000 directories. Found 8327 directories with photos.
+2026-07-18 17:44:15,027 - INFO - Progress: Checked 70000 directories. Found 8403 directories with photos.
+2026-07-18 17:45:35,481 - INFO - Progress: Checked 71000 directories. Found 8440 directories with photos.
+2026-07-18 17:49:57,757 - INFO - Progress: Checked 72000 directories. Found 8592 directories with photos.
+2026-07-18 17:53:48,388 - INFO - Progress: Checked 73000 directories. Found 8715 directories with photos.
+2026-07-18 17:56:06,638 - INFO - Progress: Checked 74000 directories. Found 8787 directories with photos.
+2026-07-18 17:57:55,490 - INFO - Progress: Checked 75000 directories. Found 8855 directories with photos.
+2026-07-18 18:02:12,638 - INFO - Progress: Checked 76000 directories. Found 8996 directories with photos.
+2026-07-18 18:08:00,794 - INFO - Progress: Checked 77000 directories. Found 9142 directories with photos.
+2026-07-18 18:11:09,523 - INFO - Progress: Checked 78000 directories. Found 9239 directories with photos.
+2026-07-18 18:13:31,961 - INFO - Progress: Checked 79000 directories. Found 9316 directories with photos.
+2026-07-18 18:19:44,262 - INFO - Progress: Checked 80000 directories. Found 9541 directories with photos.
+2026-07-18 18:24:34,930 - INFO - Progress: Checked 81000 directories. Found 9683 directories with photos.
+2026-07-18 18:32:27,555 - INFO - Progress: Checked 82000 directories. Found 9888 directories with photos.
+2026-07-18 18:34:53,663 - INFO - Progress: Checked 83000 directories. Found 9992 directories with photos.
+2026-07-18 18:36:41,263 - INFO - Progress: Checked 84000 directories. Found 10029 directories with photos.
+2026-07-18 18:42:50,548 - INFO - Progress: Checked 85000 directories. Found 10141 directories with photos.
+2026-07-18 18:46:56,940 - INFO - Progress: Checked 86000 directories. Found 10252 directories with photos.
+2026-07-18 18:51:57,898 - INFO - Progress: Checked 87000 directories. Found 10386 directories with photos.
+2026-07-18 18:57:29,892 - INFO - Progress: Checked 88000 directories. Found 10505 directories with photos.
+2026-07-18 19:04:06,837 - INFO - Progress: Checked 89000 directories. Found 10771 directories with photos.
+2026-07-18 19:07:41,987 - INFO - Progress: Checked 90000 directories. Found 10897 directories with photos.
+2026-07-18 19:12:27,958 - INFO - Progress: Checked 91000 directories. Found 11055 directories with photos.
+2026-07-18 19:14:06,920 - INFO - Progress: Checked 92000 directories. Found 11103 directories with photos.
+2026-07-18 19:17:46,625 - INFO - Progress: Checked 93000 directories. Found 11213 directories with photos.
+2026-07-18 19:23:44,524 - INFO - Progress: Checked 94000 directories. Found 11329 directories with photos.
+2026-07-18 19:28:26,218 - INFO - Progress: Checked 95000 directories. Found 11499 directories with photos.
+2026-07-18 19:37:41,800 - INFO - Progress: Checked 96000 directories. Found 11828 directories with photos.
+2026-07-18 19:45:04,725 - INFO - Progress: Checked 97000 directories. Found 12007 directories with photos.
+2026-07-18 19:49:57,444 - INFO - Progress: Checked 98000 directories. Found 12160 directories with photos.
+2026-07-18 19:52:00,208 - INFO - Progress: Checked 99000 directories. Found 12227 directories with photos.
+2026-07-18 20:02:20,941 - INFO - Progress: Checked 100000 directories. Found 12523 directories with photos.
+2026-07-18 20:06:47,691 - INFO - Progress: Checked 101000 directories. Found 12678 directories with photos.
+2026-07-18 20:09:43,443 - INFO - Progress: Checked 102000 directories. Found 12758 directories with photos.
+2026-07-18 20:15:39,216 - INFO - Progress: Checked 103000 directories. Found 12914 directories with photos.
+2026-07-18 20:19:39,256 - INFO - Progress: Checked 104000 directories. Found 13091 directories with photos.
+2026-07-18 20:28:48,002 - INFO - Progress: Checked 105000 directories. Found 13251 directories with photos.
+2026-07-18 20:33:27,841 - INFO - Progress: Checked 106000 directories. Found 13394 directories with photos.
+2026-07-18 20:37:56,165 - INFO - Progress: Checked 107000 directories. Found 13497 directories with photos.
+2026-07-18 20:44:08,968 - INFO - Progress: Checked 108000 directories. Found 13656 directories with photos.
+2026-07-18 20:46:16,675 - INFO - Progress: Checked 109000 directories. Found 13722 directories with photos.
+2026-07-18 20:51:20,145 - INFO - Progress: Checked 110000 directories. Found 13805 directories with photos.
+2026-07-18 20:57:22,329 - INFO - Progress: Checked 111000 directories. Found 13911 directories with photos.
+2026-07-18 21:03:20,296 - INFO - Progress: Checked 112000 directories. Found 14128 directories with photos.
+2026-07-18 21:05:02,174 - INFO - Progress: Checked 113000 directories. Found 14190 directories with photos.
+2026-07-18 21:21:08,118 - INFO - Progress: Checked 114000 directories. Found 14537 directories with photos.
+2026-07-18 21:28:23,925 - INFO - Progress: Checked 115000 directories. Found 14765 directories with photos.
+2026-07-18 21:30:09,682 - INFO - Progress: Checked 116000 directories. Found 14817 directories with photos.
+2026-07-18 21:38:38,924 - INFO - Progress: Checked 117000 directories. Found 15081 directories with photos.
+2026-07-18 21:42:14,705 - INFO - Progress: Checked 118000 directories. Found 15178 directories with photos.
+2026-07-18 21:50:32,005 - INFO - Progress: Checked 119000 directories. Found 15421 directories with photos.
+2026-07-18 21:56:08,711 - INFO - Progress: Checked 120000 directories. Found 15583 directories with photos.
+2026-07-18 21:58:16,684 - INFO - Progress: Checked 121000 directories. Found 15642 directories with photos.
+2026-07-18 22:00:58,523 - INFO - Progress: Checked 122000 directories. Found 15702 directories with photos.
+2026-07-18 22:07:14,458 - INFO - Progress: Checked 123000 directories. Found 15823 directories with photos.
+2026-07-18 22:11:02,954 - INFO - Progress: Checked 124000 directories. Found 15908 directories with photos.
+2026-07-18 22:12:56,279 - INFO - Progress: Checked 125000 directories. Found 15948 directories with photos.
+2026-07-18 22:18:25,547 - INFO - Progress: Checked 126000 directories. Found 16146 directories with photos.
+2026-07-18 22:28:26,118 - INFO - Progress: Checked 127000 directories. Found 16430 directories with photos.
+2026-07-18 22:31:51,089 - INFO - Progress: Checked 128000 directories. Found 16512 directories with photos.
+2026-07-18 22:36:59,094 - INFO - Progress: Checked 129000 directories. Found 16652 directories with photos.
+2026-07-18 22:42:50,418 - INFO - Progress: Checked 130000 directories. Found 16809 directories with photos.
+2026-07-18 22:45:05,918 - INFO - Progress: Checked 131000 directories. Found 16857 directories with photos.
+2026-07-18 22:49:03,181 - INFO - Progress: Checked 132000 directories. Found 16948 directories with photos.
+2026-07-18 22:54:33,357 - INFO - Progress: Checked 133000 directories. Found 17116 directories with photos.
+2026-07-18 22:56:18,260 - INFO - Progress: Checked 134000 directories. Found 17177 directories with photos.
+2026-07-18 22:59:26,657 - INFO - Progress: Checked 135000 directories. Found 17279 directories with photos.
+2026-07-18 23:08:39,468 - INFO - Progress: Checked 136000 directories. Found 17490 directories with photos.
+2026-07-18 23:09:53,286 - INFO - Progress: Checked 137000 directories. Found 17521 directories with photos.
+2026-07-18 23:11:35,184 - INFO - Progress: Checked 138000 directories. Found 17590 directories with photos.
+2026-07-18 23:17:03,970 - INFO - Progress: Checked 139000 directories. Found 17761 directories with photos.
+2026-07-18 23:20:15,172 - INFO - Progress: Checked 140000 directories. Found 17866 directories with photos.
+2026-07-18 23:23:13,236 - INFO - Progress: Checked 141000 directories. Found 17997 directories with photos.
+2026-07-18 23:30:48,363 - INFO - Progress: Checked 142000 directories. Found 18198 directories with photos.
+2026-07-18 23:34:39,561 - INFO - Progress: Checked 143000 directories. Found 18355 directories with photos.
+2026-07-18 23:41:31,797 - INFO - Progress: Checked 144000 directories. Found 18529 directories with photos.
+2026-07-18 23:45:08,810 - INFO - Progress: Checked 145000 directories. Found 18649 directories with photos.
+2026-07-18 23:49:14,670 - INFO - Progress: Checked 146000 directories. Found 18797 directories with photos.
+2026-07-18 23:53:24,692 - INFO - Progress: Checked 147000 directories. Found 18933 directories with photos.
+2026-07-18 23:57:22,089 - INFO - Progress: Checked 148000 directories. Found 19067 directories with photos.
+2026-07-19 00:02:59,161 - INFO - Progress: Checked 149000 directories. Found 19204 directories with photos.
+2026-07-19 00:07:06,133 - INFO - Progress: Checked 150000 directories. Found 19287 directories with photos.
+2026-07-19 00:10:53,406 - INFO - Progress: Checked 151000 directories. Found 19403 directories with photos.
+2026-07-19 00:12:10,433 - INFO - Progress: Checked 152000 directories. Found 19414 directories with photos.
+2026-07-19 00:17:36,733 - INFO - Progress: Checked 153000 directories. Found 19530 directories with photos.
+2026-07-19 00:18:53,337 - INFO - Progress: Checked 154000 directories. Found 19555 directories with photos.
+2026-07-19 00:21:52,466 - INFO - Progress: Checked 155000 directories. Found 19626 directories with photos.
+2026-07-19 00:27:48,648 - INFO - Progress: Checked 156000 directories. Found 19794 directories with photos.
+2026-07-19 00:32:53,414 - INFO - Progress: Checked 157000 directories. Found 19940 directories with photos.
+2026-07-19 00:34:57,169 - INFO - Progress: Checked 158000 directories. Found 19982 directories with photos.
+2026-07-19 00:40:08,356 - INFO - Progress: Checked 159000 directories. Found 20115 directories with photos.
+2026-07-19 00:42:03,880 - INFO - Progress: Checked 160000 directories. Found 20163 directories with photos.
+2026-07-19 00:50:26,175 - INFO - Progress: Checked 161000 directories. Found 20335 directories with photos.
+2026-07-19 00:55:44,179 - INFO - Progress: Checked 162000 directories. Found 20583 directories with photos.
+2026-07-19 00:56:44,602 - INFO - Progress: Checked 163000 directories. Found 20589 directories with photos.
+2026-07-19 00:58:40,516 - INFO - Progress: Checked 164000 directories. Found 20635 directories with photos.
+2026-07-19 01:02:09,736 - INFO - Progress: Checked 165000 directories. Found 20755 directories with photos.
+2026-07-19 01:09:35,534 - INFO - Progress: Checked 166000 directories. Found 20992 directories with photos.
+2026-07-19 01:14:52,837 - INFO - Progress: Checked 167000 directories. Found 21183 directories with photos.
+2026-07-19 01:16:41,370 - INFO - Progress: Checked 168000 directories. Found 21236 directories with photos.
+2026-07-19 01:20:38,871 - INFO - Progress: Checked 169000 directories. Found 21311 directories with photos.
+2026-07-19 01:27:50,002 - INFO - Progress: Checked 170000 directories. Found 21487 directories with photos.
+2026-07-19 01:30:10,582 - INFO - Progress: Checked 171000 directories. Found 21565 directories with photos.
+2026-07-19 01:34:44,915 - INFO - Progress: Checked 172000 directories. Found 21675 directories with photos.
+2026-07-19 01:37:56,750 - INFO - Progress: Checked 173000 directories. Found 21754 directories with photos.
+2026-07-19 01:44:24,469 - INFO - Progress: Checked 174000 directories. Found 21919 directories with photos.
+2026-07-19 01:49:35,550 - INFO - Progress: Checked 175000 directories. Found 22056 directories with photos.
+2026-07-19 01:52:00,558 - INFO - Progress: Checked 176000 directories. Found 22234 directories with photos.
+2026-07-19 01:59:20,285 - INFO - Progress: Checked 177000 directories. Found 22432 directories with photos.
+2026-07-19 02:01:45,194 - INFO - Progress: Checked 178000 directories. Found 22491 directories with photos.
+2026-07-19 02:04:32,310 - INFO - Progress: Checked 179000 directories. Found 22564 directories with photos.
+2026-07-19 02:09:57,028 - INFO - Progress: Checked 180000 directories. Found 22675 directories with photos.
+2026-07-19 02:17:51,345 - INFO - Progress: Checked 181000 directories. Found 22855 directories with photos.
+2026-07-19 02:19:16,823 - INFO - Progress: Checked 182000 directories. Found 22892 directories with photos.
+2026-07-19 02:25:13,007 - INFO - Progress: Checked 183000 directories. Found 23088 directories with photos.
+2026-07-19 02:31:06,517 - INFO - Progress: Checked 184000 directories. Found 23280 directories with photos.
+2026-07-19 02:32:19,927 - INFO - Progress: Checked 185000 directories. Found 23320 directories with photos.
+2026-07-19 02:33:52,929 - INFO - Progress: Checked 186000 directories. Found 23400 directories with photos.
+2026-07-19 02:39:27,903 - INFO - Progress: Checked 187000 directories. Found 23557 directories with photos.
+2026-07-19 02:41:51,949 - INFO - Progress: Checked 188000 directories. Found 23625 directories with photos.
+2026-07-19 02:45:36,445 - INFO - Progress: Checked 189000 directories. Found 23723 directories with photos.
+2026-07-19 02:48:30,345 - INFO - Progress: Checked 190000 directories. Found 23797 directories with photos.
+2026-07-19 03:00:19,847 - INFO - Progress: Checked 191000 directories. Found 23944 directories with photos.
+2026-07-19 03:03:01,535 - INFO - Progress: Checked 192000 directories. Found 24012 directories with photos.
+2026-07-19 03:04:58,042 - INFO - Progress: Checked 193000 directories. Found 24071 directories with photos.
+2026-07-19 03:11:56,011 - INFO - Progress: Checked 194000 directories. Found 24237 directories with photos.
+2026-07-19 03:19:44,944 - INFO - Progress: Checked 195000 directories. Found 24494 directories with photos.
+2026-07-19 03:23:14,928 - INFO - Progress: Checked 196000 directories. Found 24608 directories with photos.
+2026-07-19 03:25:52,778 - INFO - Progress: Checked 197000 directories. Found 24689 directories with photos.
+2026-07-19 03:27:36,623 - INFO - Progress: Checked 198000 directories. Found 24725 directories with photos.
+2026-07-19 03:33:34,789 - INFO - Progress: Checked 199000 directories. Found 24979 directories with photos.
+2026-07-19 03:34:46,014 - INFO - Progress: Checked 200000 directories. Found 24999 directories with photos.
+2026-07-19 03:36:02,520 - INFO - Progress: Checked 201000 directories. Found 25023 directories with photos.
+2026-07-19 03:42:22,454 - INFO - Progress: Checked 202000 directories. Found 25256 directories with photos.
+2026-07-19 03:43:20,588 - INFO - Progress: Checked 203000 directories. Found 25269 directories with photos.
+2026-07-19 03:46:01,052 - INFO - Progress: Checked 204000 directories. Found 25339 directories with photos.
+2026-07-19 03:50:54,315 - INFO - Progress: Checked 205000 directories. Found 25460 directories with photos.
+2026-07-19 03:54:31,795 - INFO - Progress: Checked 206000 directories. Found 25565 directories with photos.
+2026-07-19 03:58:08,837 - INFO - Progress: Checked 207000 directories. Found 25654 directories with photos.
+2026-07-19 04:04:29,223 - INFO - Progress: Checked 208000 directories. Found 25829 directories with photos.
+2026-07-19 04:08:26,752 - INFO - Progress: Checked 209000 directories. Found 25945 directories with photos.
+2026-07-19 04:14:53,466 - INFO - Progress: Checked 210000 directories. Found 26180 directories with photos.
+2026-07-19 04:17:35,567 - INFO - Progress: Checked 211000 directories. Found 26230 directories with photos.
+2026-07-19 04:19:16,446 - INFO - Progress: Checked 212000 directories. Found 26271 directories with photos.
+2026-07-19 04:23:26,975 - INFO - Progress: Checked 213000 directories. Found 26378 directories with photos.
+2026-07-19 04:28:12,420 - INFO - Progress: Checked 214000 directories. Found 26460 directories with photos.
+2026-07-19 04:34:00,382 - INFO - Progress: Checked 215000 directories. Found 26566 directories with photos.
+2026-07-19 04:37:47,673 - INFO - Progress: Checked 216000 directories. Found 26642 directories with photos.
+2026-07-19 04:43:14,878 - INFO - Progress: Checked 217000 directories. Found 26761 directories with photos.
+2026-07-19 04:46:05,650 - INFO - Progress: Checked 218000 directories. Found 26806 directories with photos.
+2026-07-19 04:50:18,021 - INFO - Progress: Checked 219000 directories. Found 26893 directories with photos.
+2026-07-19 04:54:38,315 - INFO - Progress: Checked 220000 directories. Found 27021 directories with photos.
+2026-07-19 05:00:38,164 - INFO - Progress: Checked 221000 directories. Found 27143 directories with photos.
+2026-07-19 05:04:33,726 - INFO - Progress: Checked 222000 directories. Found 27241 directories with photos.
+2026-07-19 05:08:24,377 - INFO - Progress: Checked 223000 directories. Found 27383 directories with photos.
+2026-07-19 05:09:45,131 - INFO - Progress: Checked 224000 directories. Found 27405 directories with photos.
+2026-07-19 05:11:14,261 - INFO - Progress: Checked 225000 directories. Found 27445 directories with photos.
+2026-07-19 05:13:19,628 - INFO - Progress: Checked 226000 directories. Found 27517 directories with photos.
+2026-07-19 05:15:52,441 - INFO - Progress: Checked 227000 directories. Found 27581 directories with photos.
+2026-07-19 05:17:06,191 - INFO - Progress: Checked 228000 directories. Found 27591 directories with photos.
+2026-07-19 05:20:43,828 - INFO - Progress: Checked 229000 directories. Found 27749 directories with photos.
+2026-07-19 05:26:37,429 - INFO - Progress: Checked 230000 directories. Found 27911 directories with photos.
+2026-07-19 05:29:46,384 - INFO - Progress: Checked 231000 directories. Found 27992 directories with photos.
+2026-07-19 05:33:22,642 - INFO - Progress: Checked 232000 directories. Found 28137 directories with photos.
+2026-07-19 05:38:50,922 - INFO - Progress: Checked 233000 directories. Found 28286 directories with photos.
+2026-07-19 05:41:51,452 - INFO - Progress: Checked 234000 directories. Found 28363 directories with photos.
+2026-07-19 05:45:28,600 - INFO - Progress: Checked 235000 directories. Found 28467 directories with photos.
+2026-07-19 05:47:39,145 - INFO - Progress: Checked 236000 directories. Found 28515 directories with photos.
+2026-07-19 05:53:14,823 - INFO - Progress: Checked 237000 directories. Found 28737 directories with photos.
+2026-07-19 05:57:23,812 - INFO - Progress: Checked 238000 directories. Found 28889 directories with photos.
+2026-07-19 05:59:54,106 - INFO - Progress: Checked 239000 directories. Found 28951 directories with photos.
+2026-07-19 06:03:38,985 - INFO - Progress: Checked 240000 directories. Found 29074 directories with photos.
+2026-07-19 06:08:05,515 - INFO - Progress: Checked 241000 directories. Found 29152 directories with photos.
+2026-07-19 06:11:52,894 - INFO - Progress: Checked 242000 directories. Found 29227 directories with photos.
+2026-07-19 06:15:00,956 - INFO - Progress: Checked 243000 directories. Found 29302 directories with photos.
+2026-07-19 06:19:09,683 - INFO - Progress: Checked 244000 directories. Found 29420 directories with photos.
+2026-07-19 06:25:54,823 - INFO - Progress: Checked 245000 directories. Found 29619 directories with photos.
+2026-07-19 06:36:15,904 - INFO - Progress: Checked 246000 directories. Found 29954 directories with photos.
+2026-07-19 06:45:16,220 - INFO - Progress: Checked 247000 directories. Found 30185 directories with photos.
+2026-07-19 06:52:51,353 - INFO - Progress: Checked 248000 directories. Found 30420 directories with photos.
+2026-07-19 07:05:07,150 - INFO - Progress: Checked 249000 directories. Found 30865 directories with photos.
+2026-07-19 07:07:13,204 - INFO - Progress: Checked 250000 directories. Found 30945 directories with photos.
+2026-07-19 07:19:03,291 - INFO - Progress: Checked 251000 directories. Found 31227 directories with photos.
+2026-07-19 07:27:22,504 - INFO - Progress: Checked 252000 directories. Found 31534 directories with photos.
+2026-07-19 07:31:15,589 - INFO - Progress: Checked 253000 directories. Found 31692 directories with photos.
+2026-07-19 07:40:26,667 - INFO - Progress: Checked 254000 directories. Found 32017 directories with photos.
+2026-07-19 07:48:15,989 - INFO - Progress: Checked 255000 directories. Found 32189 directories with photos.
+2026-07-19 07:53:32,710 - INFO - Progress: Checked 256000 directories. Found 32342 directories with photos.
+2026-07-19 07:54:18,052 - INFO - Scan completed successfully.
+2026-07-19 07:54:18,053 - INFO - --- Summary Report ---
+2026-07-19 07:54:18,053 - INFO - Target Scan Path: J:\\
+2026-07-19 07:54:18,053 - INFO - Total Folders Checked: 256081
+2026-07-19 07:54:18,053 - INFO - Folders with Photos: 32366
+2026-07-19 07:54:18,054 - INFO - Total Photos Counted: 423818
+2026-07-19 07:54:18,054 - INFO - Errors/Permission Denied: 0
+2026-07-19 07:54:18,054 - INFO - Execution Time: 68676.80 seconds
+2026-07-19 07:54:18,054 - INFO - ----------------------
+2026-07-19 12:17:23,169 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\FOTOARCHIEF_KC_DOORZOEKER\modules\foto_index_scanner\kc_foto_index.db
+2026-07-19 12:17:23,172 - INFO - Starting scan of directory: P:\Archief J-schijf voor 2010
+2026-07-19 12:17:23,322 - INFO - Loading Excel File 2 (Workfields)...
+2026-07-19 12:17:26,764 - INFO - Loading Excel File 1 (Sumatra metadata)...
+2026-07-19 12:17:30,799 - INFO - Successfully loaded 27766 project metadata definitions.
+2026-07-19 12:23:40,203 - INFO - Progress: Checked 1000 directories. Found 118 directories with photos.
+2026-07-19 12:28:51,774 - INFO - Progress: Checked 2000 directories. Found 254 directories with photos.
+2026-07-19 12:34:59,369 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\FOTOARCHIEF_KC_DOORZOEKER\modules\foto_index_scanner\kc_foto_index.db
+2026-07-19 12:34:59,371 - INFO - Starting scan of directory: P:\Archief J-schijf voor 2010
+2026-07-19 12:34:59,522 - INFO - Loading Excel File 2 (Workfields)...
+2026-07-19 12:35:02,999 - INFO - Loading Excel File 1 (Sumatra metadata)...
+2026-07-19 12:35:07,268 - INFO - Successfully loaded 27766 project metadata definitions.
+2026-07-19 12:40:34,528 - INFO - Progress: Checked 1000 directories. Found 118 directories with photos.
+2026-07-19 12:45:14,960 - INFO - Progress: Checked 2000 directories. Found 254 directories with photos.
+2026-07-19 12:53:41,669 - INFO - Progress: Checked 3000 directories. Found 524 directories with photos.
+2026-07-19 13:08:04,456 - INFO - Progress: Checked 4000 directories. Found 689 directories with photos.
+2026-07-19 13:25:03,909 - INFO - Progress: Checked 5000 directories. Found 937 directories with photos.
+2026-07-19 13:27:59,136 - INFO - Progress: Checked 6000 directories. Found 1011 directories with photos.
+2026-07-19 13:28:12,972 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\FOTOARCHIEF_KC_DOORZOEKER\modules\foto_index_scanner\kc_foto_index.db
+2026-07-19 13:28:12,976 - INFO - Windows Thread Execution State ingesteld: Slaapstand gedeactiveerd tijdens scan.
+2026-07-19 13:28:12,976 - INFO - Starting scan of directory: P:\Archief J-schijf voor 2010
+2026-07-19 13:28:13,014 - INFO - Loading Excel File 2 (Workfields)...
+2026-07-19 13:28:16,633 - INFO - Loading Excel File 1 (Sumatra metadata)...
+2026-07-19 13:28:20,741 - INFO - Successfully loaded 27766 project metadata definitions.
+2026-07-19 13:34:08,617 - INFO - Progress: Checked 1000 directories. Found 118 directories with photos.
+2026-07-19 13:39:16,009 - INFO - Progress: Checked 2000 directories. Found 254 directories with photos.
+2026-07-19 13:47:12,852 - INFO - Progress: Checked 3000 directories. Found 524 directories with photos.
+2026-07-19 14:00:41,497 - INFO - Progress: Checked 4000 directories. Found 689 directories with photos.
+2026-07-19 14:17:23,761 - INFO - Progress: Checked 5000 directories. Found 937 directories with photos.
+2026-07-19 14:20:11,486 - INFO - Progress: Checked 6000 directories. Found 1011 directories with photos.
+2026-07-19 14:25:08,273 - INFO - Progress: Checked 7000 directories. Found 1175 directories with photos.
+2026-07-19 14:29:48,487 - INFO - Progress: Checked 8000 directories. Found 1338 directories with photos.
+2026-07-19 14:32:51,835 - INFO - Progress: Checked 9000 directories. Found 1407 directories with photos.
+2026-07-19 14:36:21,588 - INFO - Progress: Checked 10000 directories. Found 1543 directories with photos.
+2026-07-19 14:38:33,298 - INFO - Progress: Checked 11000 directories. Found 1603 directories with photos.
+2026-07-19 14:40:42,708 - INFO - Progress: Checked 12000 directories. Found 1645 directories with photos.
+2026-07-19 14:45:47,715 - INFO - Progress: Checked 13000 directories. Found 1775 directories with photos.
+2026-07-19 14:48:15,943 - INFO - Progress: Checked 14000 directories. Found 1850 directories with photos.
+2026-07-19 14:52:18,853 - INFO - Progress: Checked 15000 directories. Found 1974 directories with photos.
+2026-07-19 14:54:44,497 - INFO - Progress: Checked 16000 directories. Found 2074 directories with photos.
+2026-07-19 14:56:37,753 - INFO - Progress: Checked 17000 directories. Found 2113 directories with photos.
+2026-07-19 14:59:56,340 - INFO - Progress: Checked 18000 directories. Found 2205 directories with photos.
+2026-07-19 15:09:13,689 - INFO - Progress: Checked 19000 directories. Found 2480 directories with photos.
+2026-07-19 15:17:00,048 - INFO - Progress: Checked 20000 directories. Found 2716 directories with photos.
+2026-07-19 15:30:08,130 - INFO - Progress: Checked 21000 directories. Found 3132 directories with photos.
+2026-07-19 15:35:14,645 - INFO - Progress: Checked 22000 directories. Found 3306 directories with photos.
+2026-07-19 15:37:17,327 - INFO - Progress: Checked 23000 directories. Found 3351 directories with photos.
+2026-07-19 15:47:25,930 - INFO - Progress: Checked 24000 directories. Found 3783 directories with photos.
+2026-07-19 15:54:14,775 - INFO - Progress: Checked 25000 directories. Found 3989 directories with photos.
+2026-07-19 15:58:06,053 - INFO - Progress: Checked 26000 directories. Found 4143 directories with photos.
+2026-07-19 16:05:12,103 - INFO - Progress: Checked 27000 directories. Found 4365 directories with photos.
+2026-07-19 16:17:57,191 - INFO - Progress: Checked 28000 directories. Found 4843 directories with photos.
+2026-07-19 16:25:52,377 - INFO - Progress: Checked 29000 directories. Found 5074 directories with photos.
+2026-07-19 16:35:46,088 - INFO - Progress: Checked 30000 directories. Found 5340 directories with photos.
+2026-07-19 16:37:38,825 - INFO - Progress: Checked 31000 directories. Found 5378 directories with photos.
+2026-07-19 16:40:53,654 - INFO - Progress: Checked 32000 directories. Found 5530 directories with photos.
+2026-07-19 16:44:11,009 - INFO - Progress: Checked 33000 directories. Found 5646 directories with photos.
+2026-07-19 16:49:11,265 - INFO - Progress: Checked 34000 directories. Found 5818 directories with photos.
+2026-07-19 17:00:33,279 - INFO - Progress: Checked 35000 directories. Found 6129 directories with photos.
+2026-07-19 17:05:37,517 - INFO - Progress: Checked 36000 directories. Found 6251 directories with photos.
+2026-07-19 17:14:09,012 - INFO - Progress: Checked 37000 directories. Found 6419 directories with photos.
+2026-07-19 17:25:53,054 - INFO - Progress: Checked 38000 directories. Found 6656 directories with photos.
+2026-07-19 17:31:25,146 - INFO - Progress: Checked 39000 directories. Found 6825 directories with photos.
+2026-07-19 17:42:09,972 - INFO - Progress: Checked 40000 directories. Found 7085 directories with photos.
+2026-07-19 17:47:51,052 - INFO - Progress: Checked 41000 directories. Found 7164 directories with photos.
+2026-07-19 17:53:39,052 - INFO - Progress: Checked 42000 directories. Found 7306 directories with photos.
+2026-07-19 18:00:30,389 - INFO - Progress: Checked 43000 directories. Found 7499 directories with photos.
+2026-07-19 18:07:49,268 - INFO - Progress: Checked 44000 directories. Found 7670 directories with photos.
+2026-07-19 18:13:29,203 - INFO - Progress: Checked 45000 directories. Found 7839 directories with photos.
+2026-07-19 18:24:30,869 - INFO - Progress: Checked 46000 directories. Found 8135 directories with photos.
+2026-07-19 18:32:20,432 - INFO - Progress: Checked 47000 directories. Found 8380 directories with photos.
+2026-07-19 18:39:30,208 - INFO - Progress: Checked 48000 directories. Found 8581 directories with photos.
+2026-07-19 18:46:21,803 - INFO - Progress: Checked 49000 directories. Found 8819 directories with photos.
+2026-07-19 18:50:43,928 - INFO - Progress: Checked 50000 directories. Found 8970 directories with photos.
+2026-07-19 19:00:35,536 - INFO - Progress: Checked 51000 directories. Found 9223 directories with photos.
+2026-07-19 19:08:56,723 - INFO - Progress: Checked 52000 directories. Found 9526 directories with photos.
+2026-07-19 19:18:51,764 - INFO - Progress: Checked 53000 directories. Found 9811 directories with photos.
+2026-07-19 19:23:11,982 - INFO - Progress: Checked 54000 directories. Found 9929 directories with photos.
+2026-07-19 19:25:15,708 - INFO - Progress: Checked 55000 directories. Found 9996 directories with photos.
+2026-07-19 19:33:52,276 - INFO - Progress: Checked 56000 directories. Found 10232 directories with photos.
+2026-07-19 19:41:00,224 - INFO - Progress: Checked 57000 directories. Found 10415 directories with photos.
+2026-07-19 19:45:34,442 - INFO - Progress: Checked 58000 directories. Found 10509 directories with photos.
+2026-07-19 19:52:12,679 - INFO - Progress: Checked 59000 directories. Found 10721 directories with photos.
+2026-07-19 19:57:06,509 - INFO - Progress: Checked 60000 directories. Found 10862 directories with photos.
+2026-07-19 20:08:13,312 - INFO - Progress: Checked 61000 directories. Found 11098 directories with photos.
+2026-07-19 20:12:15,910 - INFO - Progress: Checked 62000 directories. Found 11215 directories with photos.
+2026-07-19 20:20:48,432 - INFO - Progress: Checked 63000 directories. Found 11418 directories with photos.
+2026-07-19 20:29:33,972 - INFO - Progress: Checked 64000 directories. Found 11724 directories with photos.
+2026-07-19 20:34:55,065 - INFO - Progress: Checked 65000 directories. Found 11851 directories with photos.
+2026-07-19 20:37:22,292 - INFO - Progress: Checked 66000 directories. Found 11922 directories with photos.
+2026-07-19 20:42:38,610 - INFO - Progress: Checked 67000 directories. Found 12125 directories with photos.
+2026-07-19 20:48:35,104 - INFO - Progress: Checked 68000 directories. Found 12369 directories with photos.
+2026-07-19 20:59:11,731 - INFO - Progress: Checked 69000 directories. Found 12714 directories with photos.
+2026-07-19 21:07:28,315 - INFO - Progress: Checked 70000 directories. Found 12976 directories with photos.
+2026-07-19 21:13:51,636 - INFO - Progress: Checked 71000 directories. Found 13145 directories with photos.
+2026-07-19 21:15:49,399 - INFO - Progress: Checked 72000 directories. Found 13180 directories with photos.
+2026-07-19 21:19:16,146 - INFO - Progress: Checked 73000 directories. Found 13259 directories with photos.
+2026-07-19 21:22:51,214 - INFO - Progress: Checked 74000 directories. Found 13378 directories with photos.
+2026-07-19 21:38:18,660 - INFO - Progress: Checked 75000 directories. Found 13673 directories with photos.
+2026-07-19 21:43:18,802 - INFO - Progress: Checked 76000 directories. Found 13848 directories with photos.
+2026-07-19 21:50:02,076 - INFO - Progress: Checked 77000 directories. Found 14058 directories with photos.
+2026-07-19 21:52:40,929 - INFO - Progress: Checked 78000 directories. Found 14189 directories with photos.
+2026-07-19 21:57:19,311 - INFO - Progress: Checked 79000 directories. Found 14331 directories with photos.
+2026-07-19 22:04:42,099 - INFO - Progress: Checked 80000 directories. Found 14560 directories with photos.
+2026-07-19 22:09:07,666 - INFO - Progress: Checked 81000 directories. Found 14672 directories with photos.
+2026-07-19 22:12:58,098 - INFO - Progress: Checked 82000 directories. Found 14814 directories with photos.
+2026-07-19 22:16:13,898 - INFO - Progress: Checked 83000 directories. Found 14908 directories with photos.
+2026-07-19 22:18:13,692 - INFO - Progress: Checked 84000 directories. Found 14964 directories with photos.
+2026-07-19 22:24:25,423 - INFO - Progress: Checked 85000 directories. Found 15167 directories with photos.
+2026-07-19 22:30:26,029 - INFO - Progress: Checked 86000 directories. Found 15327 directories with photos.
+2026-07-19 22:37:10,384 - INFO - Progress: Checked 87000 directories. Found 15548 directories with photos.
+2026-07-19 22:41:09,768 - INFO - Progress: Checked 88000 directories. Found 15684 directories with photos.
+2026-07-19 22:47:24,310 - INFO - Progress: Checked 89000 directories. Found 15883 directories with photos.
+2026-07-19 22:54:01,161 - INFO - Progress: Checked 90000 directories. Found 16047 directories with photos.
+2026-07-19 22:59:48,629 - INFO - Progress: Checked 91000 directories. Found 16191 directories with photos.
+2026-07-19 23:02:19,836 - INFO - Progress: Checked 92000 directories. Found 16269 directories with photos.
+2026-07-19 23:11:10,202 - INFO - Progress: Checked 93000 directories. Found 16532 directories with photos.
+2026-07-19 23:15:19,227 - INFO - Progress: Checked 94000 directories. Found 16659 directories with photos.
+2026-07-19 23:17:30,164 - INFO - Progress: Checked 95000 directories. Found 16696 directories with photos.
+2026-07-19 23:19:42,838 - INFO - Progress: Checked 96000 directories. Found 16773 directories with photos.
+2026-07-19 23:24:52,427 - INFO - Progress: Checked 97000 directories. Found 16954 directories with photos.
+2026-07-20 07:43:18,674 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\FOTOARCHIEF_KC_DOORZOEKER\modules\foto_index_scanner\kc_foto_index.db
+2026-07-20 07:43:18,681 - INFO - Windows Thread Execution State ingesteld: Slaapstand gedeactiveerd tijdens scan.
+2026-07-20 07:43:18,681 - INFO - Starting scan of directory: P:\Archief J-schijf voor 2010
+2026-07-20 07:43:18,682 - ERROR - Scan path does not exist: P:\Archief J-schijf voor 2010
+2026-07-20 07:43:18,682 - INFO - Standaard Windows energie-instellingen hersteld.
+2026-07-20 07:45:45,192 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\FOTOARCHIEF_KC_DOORZOEKER\modules\foto_index_scanner\kc_foto_index.db
+2026-07-20 07:45:45,194 - INFO - Windows Thread Execution State ingesteld: Slaapstand gedeactiveerd tijdens scan.
+2026-07-20 07:45:45,194 - INFO - Starting scan of directory: P:\Archief J-schijf voor 2010
+2026-07-20 07:45:45,239 - INFO - Loading Excel File 2 (Workfields)...
+2026-07-20 07:45:48,772 - INFO - Loading Excel File 1 (Sumatra metadata)...
+2026-07-20 07:45:52,515 - INFO - Successfully loaded 27766 project metadata definitions.
+2026-07-20 07:51:32,860 - INFO - Progress: Checked 1000 directories. Found 118 directories with photos.
+2026-07-20 07:56:34,954 - INFO - Progress: Checked 2000 directories. Found 254 directories with photos.
+2026-07-20 08:29:45,973 - INFO - Progress: Checked 3000 directories. Found 524 directories with photos.
+2026-07-20 08:34:51,768 - INFO - Progress: Checked 4000 directories. Found 689 directories with photos.
+2026-07-20 08:40:41,183 - INFO - Progress: Checked 5000 directories. Found 937 directories with photos.
+2026-07-20 08:41:38,993 - INFO - Progress: Checked 6000 directories. Found 1011 directories with photos.
+2026-07-20 08:43:31,834 - INFO - Progress: Checked 7000 directories. Found 1175 directories with photos.
+2026-07-20 08:45:18,129 - INFO - Progress: Checked 8000 directories. Found 1338 directories with photos.
+2026-07-20 08:46:48,590 - INFO - Progress: Checked 9000 directories. Found 1407 directories with photos.
+2026-07-20 08:48:55,635 - INFO - Progress: Checked 10000 directories. Found 1543 directories with photos.
+2026-07-20 08:50:13,694 - INFO - Progress: Checked 11000 directories. Found 1603 directories with photos.
+2026-07-20 08:51:10,579 - INFO - Progress: Checked 12000 directories. Found 1645 directories with photos.
+2026-07-20 08:53:11,326 - INFO - Progress: Checked 13000 directories. Found 1775 directories with photos.
+2026-07-20 08:53:59,410 - INFO - Progress: Checked 14000 directories. Found 1850 directories with photos.
+2026-07-20 08:55:55,746 - INFO - Progress: Checked 15000 directories. Found 1974 directories with photos.
+2026-07-20 08:56:47,356 - INFO - Progress: Checked 16000 directories. Found 2074 directories with photos.
+2026-07-20 08:57:16,531 - INFO - Progress: Checked 17000 directories. Found 2113 directories with photos.
+2026-07-20 08:58:21,875 - INFO - Progress: Checked 18000 directories. Found 2205 directories with photos.
+2026-07-20 09:02:01,867 - INFO - Progress: Checked 19000 directories. Found 2480 directories with photos.
+2026-07-20 09:05:15,389 - INFO - Progress: Checked 20000 directories. Found 2716 directories with photos.
+2026-07-20 09:11:17,864 - INFO - Progress: Checked 21000 directories. Found 3132 directories with photos.
+2026-07-20 09:13:14,754 - INFO - Progress: Checked 22000 directories. Found 3306 directories with photos.
+2026-07-20 09:13:47,086 - INFO - Progress: Checked 23000 directories. Found 3351 directories with photos.
+2026-07-20 09:17:24,132 - INFO - Progress: Checked 24000 directories. Found 3783 directories with photos.
+2026-07-20 09:19:39,519 - INFO - Progress: Checked 25000 directories. Found 3989 directories with photos.
+2026-07-20 09:20:57,474 - INFO - Progress: Checked 26000 directories. Found 4143 directories with photos.
+2026-07-20 09:23:34,616 - INFO - Progress: Checked 27000 directories. Found 4365 directories with photos.
+2026-07-20 09:28:30,098 - INFO - Progress: Checked 28000 directories. Found 4843 directories with photos.
+2026-07-20 09:31:35,799 - INFO - Progress: Checked 29000 directories. Found 5074 directories with photos.
+2026-07-20 09:35:38,430 - INFO - Progress: Checked 30000 directories. Found 5340 directories with photos.
+2026-07-20 09:36:12,431 - INFO - Progress: Checked 31000 directories. Found 5378 directories with photos.
+2026-07-20 09:37:14,710 - INFO - Progress: Checked 32000 directories. Found 5530 directories with photos.
+2026-07-20 09:38:08,122 - INFO - Progress: Checked 33000 directories. Found 5646 directories with photos.
+2026-07-20 09:40:06,651 - INFO - Progress: Checked 34000 directories. Found 5818 directories with photos.
+2026-07-20 09:44:24,837 - INFO - Progress: Checked 35000 directories. Found 6129 directories with photos.
+2026-07-20 09:45:45,150 - INFO - Progress: Checked 36000 directories. Found 6251 directories with photos.
+2026-07-20 09:48:12,755 - INFO - Progress: Checked 37000 directories. Found 6419 directories with photos.
+2026-07-20 09:52:25,606 - INFO - Progress: Checked 38000 directories. Found 6656 directories with photos.
+2026-07-20 09:54:07,865 - INFO - Progress: Checked 39000 directories. Found 6825 directories with photos.
+2026-07-20 09:56:53,196 - INFO - Progress: Checked 40000 directories. Found 7085 directories with photos.
+2026-07-20 09:58:13,505 - INFO - Progress: Checked 41000 directories. Found 7164 directories with photos.
+2026-07-20 09:59:56,385 - INFO - Progress: Checked 42000 directories. Found 7306 directories with photos.
+2026-07-20 10:02:16,314 - INFO - Progress: Checked 43000 directories. Found 7499 directories with photos.
+2026-07-20 10:04:37,246 - INFO - Progress: Checked 44000 directories. Found 7670 directories with photos.
+2026-07-20 10:07:07,468 - INFO - Progress: Checked 45000 directories. Found 7839 directories with photos.
+2026-07-20 10:10:24,716 - INFO - Progress: Checked 46000 directories. Found 8135 directories with photos.
+2026-07-20 10:12:44,345 - INFO - Progress: Checked 47000 directories. Found 8380 directories with photos.
+2026-07-20 10:15:03,432 - INFO - Progress: Checked 48000 directories. Found 8581 directories with photos.
+2026-07-20 10:17:38,403 - INFO - Progress: Checked 49000 directories. Found 8819 directories with photos.
+2026-07-20 10:18:56,531 - INFO - Progress: Checked 50000 directories. Found 8970 directories with photos.
+2026-07-20 10:22:18,164 - INFO - Progress: Checked 51000 directories. Found 9223 directories with photos.
+2026-07-20 10:24:51,266 - INFO - Progress: Checked 52000 directories. Found 9526 directories with photos.
+2026-07-20 10:29:01,938 - INFO - Progress: Checked 53000 directories. Found 9811 directories with photos.
+2026-07-20 10:30:34,141 - INFO - Progress: Checked 54000 directories. Found 9929 directories with photos.
+2026-07-20 10:31:12,869 - INFO - Progress: Checked 55000 directories. Found 9996 directories with photos.
+2026-07-20 10:34:28,342 - INFO - Progress: Checked 56000 directories. Found 10232 directories with photos.
+2026-07-20 10:37:17,406 - INFO - Progress: Checked 57000 directories. Found 10415 directories with photos.
+2026-07-20 10:38:49,928 - INFO - Progress: Checked 58000 directories. Found 10509 directories with photos.
+2026-07-20 10:40:58,329 - INFO - Progress: Checked 59000 directories. Found 10721 directories with photos.
+2026-07-20 10:42:41,799 - INFO - Progress: Checked 60000 directories. Found 10862 directories with photos.
+2026-07-20 10:46:52,893 - INFO - Progress: Checked 61000 directories. Found 11098 directories with photos.
+2026-07-20 10:48:21,576 - INFO - Progress: Checked 62000 directories. Found 11215 directories with photos.
+2026-07-20 10:51:09,191 - INFO - Progress: Checked 63000 directories. Found 11418 directories with photos.
+2026-07-20 10:53:42,689 - INFO - Progress: Checked 64000 directories. Found 11724 directories with photos.
+2026-07-20 10:55:12,886 - INFO - Progress: Checked 65000 directories. Found 11851 directories with photos.
+2026-07-20 10:55:52,480 - INFO - Progress: Checked 66000 directories. Found 11922 directories with photos.
+2026-07-20 10:57:24,078 - INFO - Progress: Checked 67000 directories. Found 12125 directories with photos.
+2026-07-20 10:59:10,086 - INFO - Progress: Checked 68000 directories. Found 12369 directories with photos.
+2026-07-20 11:02:32,439 - INFO - Progress: Checked 69000 directories. Found 12714 directories with photos.
+2026-07-20 11:04:51,938 - INFO - Progress: Checked 70000 directories. Found 12976 directories with photos.
+2026-07-20 11:07:15,779 - INFO - Progress: Checked 71000 directories. Found 13145 directories with photos.
+2026-07-20 11:07:38,606 - INFO - Progress: Checked 72000 directories. Found 13180 directories with photos.
+2026-07-20 11:08:33,906 - INFO - Progress: Checked 73000 directories. Found 13259 directories with photos.
+2026-07-20 11:09:31,323 - INFO - Progress: Checked 74000 directories. Found 13378 directories with photos.
+2026-07-20 11:14:16,116 - INFO - Progress: Checked 75000 directories. Found 13673 directories with photos.
+2026-07-20 11:15:39,435 - INFO - Progress: Checked 76000 directories. Found 13848 directories with photos.
+2026-07-20 11:17:28,765 - INFO - Progress: Checked 77000 directories. Found 14058 directories with photos.
+2026-07-20 11:18:08,387 - INFO - Progress: Checked 78000 directories. Found 14189 directories with photos.
+2026-07-20 11:19:30,994 - INFO - Progress: Checked 79000 directories. Found 14331 directories with photos.
+2026-07-20 11:22:38,150 - INFO - Progress: Checked 80000 directories. Found 14560 directories with photos.
+2026-07-20 11:23:53,764 - INFO - Progress: Checked 81000 directories. Found 14672 directories with photos.
+2026-07-20 11:25:09,482 - INFO - Progress: Checked 82000 directories. Found 14814 directories with photos.
+2026-07-20 11:26:05,288 - INFO - Progress: Checked 83000 directories. Found 14908 directories with photos.
+2026-07-20 11:26:31,883 - INFO - Progress: Checked 84000 directories. Found 14964 directories with photos.
+2026-07-20 11:28:20,365 - INFO - Progress: Checked 85000 directories. Found 15167 directories with photos.
+2026-07-20 11:30:24,973 - INFO - Progress: Checked 86000 directories. Found 15327 directories with photos.
+2026-07-20 11:33:18,645 - INFO - Progress: Checked 87000 directories. Found 15548 directories with photos.
+2026-07-20 11:34:33,409 - INFO - Progress: Checked 88000 directories. Found 15684 directories with photos.
+2026-07-20 11:37:24,062 - INFO - Progress: Checked 89000 directories. Found 15883 directories with photos.
+2026-07-20 11:40:46,835 - INFO - Progress: Checked 90000 directories. Found 16047 directories with photos.
+2026-07-20 11:43:55,480 - INFO - Progress: Checked 91000 directories. Found 16191 directories with photos.
+2026-07-20 11:45:01,957 - INFO - Progress: Checked 92000 directories. Found 16269 directories with photos.
+2026-07-20 11:49:06,942 - INFO - Progress: Checked 93000 directories. Found 16532 directories with photos.
+2026-07-20 11:51:24,638 - INFO - Progress: Checked 94000 directories. Found 16659 directories with photos.
+2026-07-20 11:52:21,325 - INFO - Progress: Checked 95000 directories. Found 16696 directories with photos.
+2026-07-20 11:53:07,783 - INFO - Progress: Checked 96000 directories. Found 16773 directories with photos.
+2026-07-20 11:55:20,347 - INFO - Progress: Checked 97000 directories. Found 16954 directories with photos.
+2026-07-20 12:01:38,703 - INFO - Progress: Checked 98000 directories. Found 17417 directories with photos.
+2026-07-20 12:03:02,969 - INFO - Progress: Checked 99000 directories. Found 17489 directories with photos.
+2026-07-20 12:03:40,694 - INFO - Progress: Checked 100000 directories. Found 17503 directories with photos.
+2026-07-20 12:05:47,952 - INFO - Progress: Checked 101000 directories. Found 17668 directories with photos.
+2026-07-20 12:11:35,927 - INFO - Progress: Checked 102000 directories. Found 17791 directories with photos.
+2026-07-20 12:14:21,857 - INFO - Progress: Checked 103000 directories. Found 17981 directories with photos.
+2026-07-20 12:18:05,105 - INFO - Progress: Checked 104000 directories. Found 18270 directories with photos.
+2026-07-20 12:21:53,784 - INFO - Progress: Checked 105000 directories. Found 18535 directories with photos.
+2026-07-20 12:22:56,301 - INFO - Progress: Checked 106000 directories. Found 18634 directories with photos.
+2026-07-20 12:24:48,076 - INFO - Progress: Checked 107000 directories. Found 18827 directories with photos.
+2026-07-20 12:28:33,453 - INFO - Progress: Checked 108000 directories. Found 19124 directories with photos.
+2026-07-20 12:32:55,065 - INFO - Progress: Checked 109000 directories. Found 19593 directories with photos.
+2026-07-20 12:38:17,332 - INFO - Progress: Checked 110000 directories. Found 20052 directories with photos.
+2026-07-20 12:39:58,856 - INFO - Progress: Checked 111000 directories. Found 20246 directories with photos.
+2026-07-20 12:40:48,617 - INFO - Progress: Checked 112000 directories. Found 20336 directories with photos.
+2026-07-20 12:42:39,969 - INFO - Progress: Checked 113000 directories. Found 20530 directories with photos.
+2026-07-20 12:44:34,718 - INFO - Progress: Checked 114000 directories. Found 20855 directories with photos.
+2026-07-20 12:47:28,324 - INFO - Progress: Checked 115000 directories. Found 21166 directories with photos.
+2026-07-20 12:50:31,063 - INFO - Progress: Checked 116000 directories. Found 21528 directories with photos.
+2026-07-20 12:53:25,154 - INFO - Progress: Checked 117000 directories. Found 21945 directories with photos.
+2026-07-20 12:56:20,666 - INFO - Progress: Checked 118000 directories. Found 22320 directories with photos.
+2026-07-20 13:01:36,671 - INFO - Progress: Checked 119000 directories. Found 23008 directories with photos.
+2026-07-20 13:03:16,178 - INFO - Progress: Checked 120000 directories. Found 23191 directories with photos.
+2026-07-20 13:04:35,467 - INFO - Progress: Checked 121000 directories. Found 23342 directories with photos.
+2026-07-20 13:07:19,558 - INFO - Progress: Checked 122000 directories. Found 23544 directories with photos.
+2026-07-20 13:10:20,998 - INFO - Progress: Checked 123000 directories. Found 23855 directories with photos.
+2026-07-20 13:13:22,201 - INFO - Progress: Checked 124000 directories. Found 24147 directories with photos.
+2026-07-20 13:16:32,385 - INFO - Progress: Checked 125000 directories. Found 24404 directories with photos.
+2026-07-20 13:20:37,733 - INFO - Progress: Checked 126000 directories. Found 24736 directories with photos.
+2026-07-20 13:26:02,436 - INFO - Progress: Checked 127000 directories. Found 25076 directories with photos.
+2026-07-20 13:28:37,223 - INFO - Progress: Checked 128000 directories. Found 25310 directories with photos.
+2026-07-20 13:32:35,667 - INFO - Progress: Checked 129000 directories. Found 25669 directories with photos.
+2026-07-20 13:37:52,488 - INFO - Progress: Checked 130000 directories. Found 26137 directories with photos.
+2026-07-20 13:40:53,140 - INFO - Progress: Checked 131000 directories. Found 26503 directories with photos.
+2026-07-20 13:44:01,346 - INFO - Progress: Checked 132000 directories. Found 26818 directories with photos.
+2026-07-20 13:50:56,275 - INFO - Progress: Checked 133000 directories. Found 27393 directories with photos.
+2026-07-20 14:11:35,599 - INFO - Progress: Checked 134000 directories. Found 27757 directories with photos.
+2026-07-20 14:15:39,683 - INFO - Progress: Checked 135000 directories. Found 28154 directories with photos.
+2026-07-20 14:18:53,878 - INFO - Progress: Checked 136000 directories. Found 28435 directories with photos.
+2026-07-20 14:22:10,185 - INFO - Progress: Checked 137000 directories. Found 28707 directories with photos.
+2026-07-20 14:27:19,871 - INFO - Progress: Checked 138000 directories. Found 29317 directories with photos.
+2026-07-20 14:31:32,963 - INFO - Progress: Checked 139000 directories. Found 29667 directories with photos.
+2026-07-20 14:34:03,203 - INFO - Progress: Checked 140000 directories. Found 29878 directories with photos.
+2026-07-20 14:36:07,522 - INFO - Progress: Checked 141000 directories. Found 30065 directories with photos.
+2026-07-20 14:39:10,472 - INFO - Progress: Checked 142000 directories. Found 30287 directories with photos.
+2026-07-20 14:41:18,996 - INFO - Progress: Checked 143000 directories. Found 30451 directories with photos.
+2026-07-20 17:28:36,410 - INFO - Initializing database at: C:\Users\stijn\OneDrive - KuiperCompagnons B.V\Antigravity\FOTOARCHIEF_KC_DOORZOEKER\modules\foto_index_scanner\kc_foto_index.db
+2026-07-20 17:28:36,413 - INFO - Windows Thread Execution State ingesteld: Slaapstand gedeactiveerd tijdens scan.
+2026-07-20 17:28:36,413 - INFO - Starting scan of directory: P:\Archief J-schijf voor 2010
+2026-07-20 17:28:36,428 - INFO - Loading Excel File 2 (Workfields)...
+2026-07-20 17:28:39,448 - INFO - Loading Excel File 1 (Sumatra metadata)...
+2026-07-20 17:28:42,779 - INFO - Successfully loaded 27766 project metadata definitions.
+2026-07-20 17:29:49,439 - INFO - Progress: Checked 1000 directories. Found 118 directories with photos.
+2026-07-20 17:30:39,331 - INFO - Progress: Checked 2000 directories. Found 254 directories with photos.
+2026-07-20 17:32:05,416 - INFO - Progress: Checked 3000 directories. Found 524 directories with photos.
+2026-07-20 17:34:38,157 - INFO - Progress: Checked 4000 directories. Found 689 directories with photos.
+2026-07-20 17:37:45,313 - INFO - Progress: Checked 5000 directories. Found 937 directories with photos.
+2026-07-20 17:38:12,705 - INFO - Progress: Checked 6000 directories. Found 1011 directories with photos.
+2026-07-20 17:39:14,007 - INFO - Progress: Checked 7000 directories. Found 1175 directories with photos.
+2026-07-20 17:40:08,230 - INFO - Progress: Checked 8000 directories. Found 1338 directories with photos.
+2026-07-20 17:40:36,904 - INFO - Progress: Checked 9000 directories. Found 1407 directories with photos.
+2026-07-20 17:41:15,314 - INFO - Progress: Checked 10000 directories. Found 1543 directories with photos.
+2026-07-20 17:41:35,378 - INFO - Progress: Checked 11000 directories. Found 1603 directories with photos.
+2026-07-20 17:41:50,489 - INFO - Progress: Checked 12000 directories. Found 1645 directories with photos.
+2026-07-20 17:42:55,853 - INFO - Progress: Checked 13000 directories. Found 1775 directories with photos.
+2026-07-20 17:43:16,232 - INFO - Progress: Checked 14000 directories. Found 1850 directories with photos.
+2026-07-20 17:43:59,619 - INFO - Progress: Checked 15000 directories. Found 1974 directories with photos.
+2026-07-20 17:44:21,241 - INFO - Progress: Checked 16000 directories. Found 2074 directories with photos.
+2026-07-20 17:44:34,468 - INFO - Progress: Checked 17000 directories. Found 2113 directories with photos.
+2026-07-20 17:45:07,287 - INFO - Progress: Checked 18000 directories. Found 2205 directories with photos.
+2026-07-20 17:47:02,512 - INFO - Progress: Checked 19000 directories. Found 2480 directories with photos.
+2026-07-20 17:48:39,465 - INFO - Progress: Checked 20000 directories. Found 2716 directories with photos.
+2026-07-20 17:52:02,794 - INFO - Progress: Checked 21000 directories. Found 3132 directories with photos.
+2026-07-20 17:53:11,044 - INFO - Progress: Checked 22000 directories. Found 3306 directories with photos.
+2026-07-20 17:53:28,093 - INFO - Progress: Checked 23000 directories. Found 3351 directories with photos.
+2026-07-20 17:54:02,008 - INFO - Scan completed successfully.
+2026-07-20 17:54:02,008 - INFO - --- Summary Report ---
+2026-07-20 17:54:02,008 - INFO - Target Scan Path: P:\Archief J-schijf voor 2010
+2026-07-20 17:54:02,009 - INFO - Total Folders Checked: 23333
+2026-07-20 17:54:02,009 - INFO - Folders with Photos: 3444
+2026-07-20 17:54:02,009 - INFO - Total Photos Counted: 66937
+2026-07-20 17:54:02,009 - INFO - Errors/Permission Denied: 0
+2026-07-20 17:54:02,009 - INFO - Execution Time: 1525.59 seconds
+2026-07-20 17:54:02,009 - INFO - ----------------------
+2026-07-20 17:54:02,014 - INFO - Standaard Windows energie-instellingen hersteld.
